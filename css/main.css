@@ -1,0 +1,16 @@
+#main-nav {
+
+}
+.nav-menu {
+  text-align: right;
+}
+.nav-item {
+  margin: 0 0 0 10px;
+}
+.nav-item:first-child {
+  margin: 0;
+}
+.nav-item,
+.image-link {
+  text-decoration: none;
+}
